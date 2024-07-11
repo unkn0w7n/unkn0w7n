@@ -1,5 +1,6 @@
 Everything We Need Is Already Here
 <table>
+  <td>
   <tr>
     <a href="https://github.com/unkn0w7n" target="blank">
       <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
@@ -15,6 +16,7 @@ Everything We Need Is Already Here
       <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
     </a>
   </tr>
+  </td>
 </table>
 <!---
 unkn0w7n/unkn0w7n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
