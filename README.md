@@ -5,11 +5,11 @@ Everything We Need Is Already Here
       <img width="20%" height="20%" src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif"/>
     </a>
   </tr>
-  <td>
+  <tr>
     <a href="https://github.com/unkn0w7n" target="blank">
       <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
     </a>
-  </td>
+  </tr>
   <td>
     <a href="https://github.com/unkn0w7n" target="blank">
       <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
