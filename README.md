@@ -1,16 +1,17 @@
 #### Everything We Need Is Already Here </h4>
 
-<div>
-  <a href="https://github.com/unkn0w7n" target="blank">
-    <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
-  </a>
-</div>
-<br>
-<div>
-  <a href="https://github.com/unkn0w7n" target="blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <a href="https://github.com/unkn0w7n" target="blank">
+      <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
+    </a>
+  </tr>
+  <tr>
+    <a href="https://github.com/unkn0w7n" target="blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
+    </a>
+  </tr>
+</table>
 <br>
 <div>
   <a href="https://github.com/unkn0w7n" target="blank">
