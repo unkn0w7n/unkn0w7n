@@ -2,6 +2,11 @@ Everything We Need Is Already Here
 <table>
   <tr align="center">
     <a href="https://github.com/unkn0w7n" target="blank">
+      <img align="center" width="25%" height="25%" src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif"/>
+    </a>
+  </tr>
+  <tr align="center">
+    <a href="https://github.com/unkn0w7n" target="blank">
       <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
     </a>
   </tr>
@@ -10,11 +15,6 @@ Everything We Need Is Already Here
       <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
     </a>
   </tr>
-  <td align="center">
-    <a href="https://github.com/unkn0w7n" target="blank">
-      <img align="center" width="25%" height="25%" src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif"/>
-    </a>
-  </td>
 </table>
 <!---
 unkn0w7n/unkn0w7n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
