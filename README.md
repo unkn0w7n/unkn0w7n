@@ -1,10 +1,10 @@
 Everything We Need Is Already Here
 <table>
-  <td>
+  <tr>
     <a href="https://github.com/unkn0w7n" target="blank">
-      <img width="18%" height="18%" src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif"/>
+      <img width="20%" height="20%" src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif"/>
     </a>
-  </td>
+  </tr>
   <td>
     <a href="https://github.com/unkn0w7n" target="blank">
       <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
