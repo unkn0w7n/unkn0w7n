@@ -2,12 +2,12 @@ Everything We Need Is Already Here
 <table>
   <td>
     <a href="https://github.com/unkn0w7n" target="blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
+      <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
     </a>
   </td>
   <td>
     <a href="https://github.com/unkn0w7n" target="blank">
-      <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
     </a>
   </td>
 </table>
