@@ -1,16 +1,16 @@
 Everything We Need Is Already Here
 <table>
-  <tr>
+  <tr align="center">
     <a href="https://github.com/unkn0w7n" target="blank">
-      <img width="19.5%" height="19.5%" src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif"/>
+      <img width="19.25%" height="19.25%" src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif"/>
     </a>
   </tr>
-  <tr>
+  <tr align="center">
     <a href="https://github.com/unkn0w7n" target="blank">
       <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
     </a>
   </tr>
-  <tr>
+  <tr align="center">
     <a href="https://github.com/unkn0w7n" target="blank">
       <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
     </a>
