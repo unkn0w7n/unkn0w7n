@@ -1,7 +1,7 @@
 #### Everything We Need Is Already Here </h4>
 
 <div>
-  <a href="https://github.com/unkn0w7n" target="blank">\
+  <a href="https://github.com/unkn0w7n" target="blank">
     <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
   </a>
 </div>
