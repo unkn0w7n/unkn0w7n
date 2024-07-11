@@ -11,7 +11,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
       </a>
       <a href="https://github.com/unkn0w7n" target="blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=unkn0w7n&rank=S,AA"/>
+        <img src="https://github-trophies.vercel.app/?username=unkn0w7n&row=1&column=4"/>
       </a>
   </tr>
 </table>
