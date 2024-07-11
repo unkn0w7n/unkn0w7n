@@ -4,11 +4,15 @@
   <a href="https://github.com/unkn0w7n" target="blank">\
     <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
   </a>
-  <br>
+</div>
+<br>
+<div>
   <a href="https://github.com/unkn0w7n" target="blank">
     <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
   </a>
-  <br>
+</div>
+<br>
+<div>
   <a href="https://github.com/unkn0w7n" target="blank">
     <img src="https://github-trophies.vercel.app/?username=unkn0w7n&row=1&column=5"/>
   </a>
