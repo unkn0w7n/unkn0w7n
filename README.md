@@ -1,7 +1,7 @@
 <table>
   <td>
     <a href="https://github.com/unkn0w7n" target="blank">
-      <img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
     </a>
   </td>
   <td>
