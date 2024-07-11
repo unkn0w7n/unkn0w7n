@@ -2,7 +2,7 @@ Everything We Need Is Already Here
 <table>
   <tr>
     <a href="https://github.com/unkn0w7n" target="blank">
-      <img width="12.5%" height="12.5%" src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif"/>
+      <img width="15%" height="15%" src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif"/>
     </a>
   </tr>
   <tr>
