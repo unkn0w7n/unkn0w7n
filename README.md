@@ -4,6 +4,11 @@
 Everything We Need Is Already Here
 <table>
   <td>
+    <div align="center">
+      <img align="center" width="50%" src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif">
+    </div>
+  </td>
+  <td>
     <a href="https://github.com/unkn0w7n" target="blank">
       <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
     </a>
