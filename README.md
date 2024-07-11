@@ -1,9 +1,13 @@
 <table>
   <td>
-    [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true)](https://github.com/unkn0w7n)
+    <a href="https://github.com/unkn0w7n" target="blank">
+      <img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square"/>
+    </a>
   </td>
   <td>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=unkn0w7n)](https://git.io/streak-stats)
+    <a href="https://github.com/unkn0w7n" target="blank">
+      <img src="https://streak-stats.demolab.com/?user=unkn0w7n"/>
+    </a>
   </td>
 </table>
 <!---
