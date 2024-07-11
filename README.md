@@ -13,7 +13,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=unkn0w7n&show_icons=true"/>
       </a>
       <a href="https://github.com/unkn0w7n" target="blank">
-        <img width="75%" src="https://github-profile-trophy.vercel.app/?username=unkn0w7n&rank=S"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=unkn0w7n&rank=S"/>
       </a>
   </tr>
 </table>
