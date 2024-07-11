@@ -1,3 +1,6 @@
+<div align="center">
+  <img align="center" width="50%" src="/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif">
+</div>
 Everything We Need Is Already Here
 <table>
   <td>
